@@ -41,11 +41,11 @@ body {
 }
 
 .form-input[type='number'] {
-padding: 10px;
-font-size: 14px;
-border: 1px solid #ccc;
-border-radius: 4px;
-transition: border 0.3s ease;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border 0.3s ease;
 }
 
 .form-input[type='number']:hover {
@@ -72,28 +72,27 @@ transition: border 0.3s ease;
   border: 1px solid #000;
 }
 
-
 .legend-subtitle {
-text-align: left;
+  text-align: left;
 }
 
 .form-btn {
-  font-family: "Montserrat", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #fff;
-background-color: #4e75ff;
-border: none;
-border-radius: 8px;
-padding: 8px 16px;
-width: 360px;
-height: 40px;
-margin-bottom: 8px;
-transition: background-color 0.3s ease;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #4e75ff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 360px;
+  height: 40px;
+  margin-bottom: 8px;
+  transition: background-color 0.3s ease;
 }
 
 .form-btn:hover {
-  background-color: #6c8cff;;
+  background-color: #6c8cff;
 }
